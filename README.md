@@ -268,9 +268,9 @@ Then run the server.
 python3 manage.py runserver
 ```
 
-### Project Evaluation
+# Project Evaluation
 
-## How to Automate Your Curtains With Arduino…
+# How to Automate Your Curtains With Arduino…
 
 This Arduino Curtain Automation project will let you automate your curtain blinds using just an Arduino and a stepper motor. I just moved to America pursuing my higher studies. Because my dorm is very dark, I wanted to brighten up my room when I wanted to. Since I would be there for only for a month, I couldn't make anything too complicated. So I decided to make myself this DIY Arduino Curtain Automation system. Using regular curtain blinds, I could control the amount of light in the room and suit it according to my needs.
 
@@ -284,12 +284,12 @@ Using buttons to move the shades of the curtain (Step 3).
 So letâ€™s get started with our DIY Arduino Curtain Automation system, follow the simple instructions to replicate this project.
 
 
-# How Does the Arduino Curtain Automation Work?
+## How Does the Arduino Curtain Automation Work?
 
 
 The working of this DIY Arduino Curtain Automation system is very simple. The Arduino takes input from either the sound sensor (mic) or buttons. It then correspondingly controls the stepper motor through the Darlington array driver for the motor. The stepper motor is attached to the control stick of the curtain blinds and thus on rotation, opens/closes the blinds.
 
-# Interfacing the Stepper Motor
+## Interfacing the Stepper Motor
 
 
 The first step I did was testing the design for the Arduino curtain automation system. The motor is connected to the 4 wires of the driver. Depending on the direction of rotation for your curtain, you need to plug the driver accordingly.
